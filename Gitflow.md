@@ -1,6 +1,3 @@
-Create Github organization.
-Add all members and make them owners. 
-
 Develop on branch. You will ONLY code on your branch. NEVER code on the master branch. Coding on the master branch eliminates the process of merging, which is where you will catch conflicts between what you had (existing/working product) and what you're adding (features containing potentially breaking code).
   - git checkout -b "branchname" (make new branch)
   - git checkout "branch name" (switch to existing branch)
